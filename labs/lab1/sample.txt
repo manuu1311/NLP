@@ -1,0 +1,11 @@
+The course provides an introduction to the field of Natural Language Processing (NLP), covering central concepts in NLP and their implementations using NLTK and other python libraries. A set of illustrative example will guide the students in their understanding of the various modules and data processing pipelines involved in typical NLP data processing pipeline. 
+
+NLP is a broad field of Artificial Intelligence that aims to empower computer machine to understand text as understood by a human. Because text may have different interpretations with complex grammar and syntactic structure, this requires a set of modules from basic text segmentation to comprehension of individual words and then comprehension of whole sentences, this task is very challenging. We will look in more detail at various specific modules and key concepts of the data processing pipeline for uncovering syntax, parsing, lexical and compositional semantics, and more. We will employ modern statistical and machine learning / deep learning methods for linguistic analysis of the textual input.
+
+We will also cover briefly natural language generation (NLG) using state-of-the-art deep learning and other machine learning techniques.
+
+The course involves a set of projects, which provide a good opportunity for student to focus on specific area of the NLP-based reasoning with real application.
+
+Students who complete this course will gain a foundational understanding in natural language processing methods and strategies. They will also learn how to evaluate the strengths and weaknesses of various NLP technologies and frameworks as they gain practical experience in the NLP toolkits available.
+
+The course involves practical work on python libraries for NLP. So a good knowledge of the language is a pre-requisite to achieve good mark in this course. 

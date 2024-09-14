@@ -1,0 +1,26 @@
+Data processing and Basic Text Handling
+1)	Analyze the examples of programs in https://www.nltk.org/book/  -- Especially, study examples of Chapter 1 and Chapter 2 
+regarding the use of various corpora datasets and frequency plots. You may also inspire from other tutorials on data plot in 
+python such mathplotlib library. Write a program for importing Brown corpus and displays the frequency of individual words. Save 
+the result as a separate text file on your local drive.  
+2)	Write a script that displays the histogram of the thirty most frequent words in the corpus.  Use appropriate annotation for 
+the axis and title. 
+3)	Repeat 2) considering the thirty less frequent words, and another graph for the thirty words whose frequency is in the middle 
+range of frequencies (You are free de use your own approach to identify those words, but explain your reasoning by providing 
+appropriate comments in your script).
+4)	Write a program that calculates the length of the words in Brown corpus, and displays the graph showing the variation of the 
+word-length with respect to the frequency (For this purpose, all words with the same length should have their frequency summed up 
+to get the frequency of that length).
+5)	Consider the modal words (will, must, might, may, could, can). Write a script that calculates the frequency of each of these 
+words in Brown corpus. Write another script that calculates the length of the sentences in terms of number of words and number of
+ characters of sentences where these modal word occurred.
+6)	Consider the default stop-word list for English language available in NLTK book. Write a script that calculates the number of 
+stop words in each sentence of the brown corpus and the length of the sentence in number of words and characters. Then write a 
+script that displays the frequency of number of stopwords versus the length of the sentence (both for number of words and number 
+of characters).  
+7)	Consider a text file of your choice saved in your directory. Write a script that reads the file from your computer and 
+performs the word tokenization and outputs i) the total number of tokens of the text file, ii) frequency of each token, 
+iii) 30 most frequent tokens.
+8)	Repeat 7), when considering the input file consists of a web file of your choice and use beautiful soup or any 
+other crawler to extract all tokens of the text web (without further crawling each link in the web document). You may 
+inspire from examples of Chapt 2 or elsewhere.
