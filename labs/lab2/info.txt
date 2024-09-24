@@ -1,0 +1,24 @@
+A- Information Retrieval 1
+1)	Consider an academic journal of your own choice and collect 20 abstracts using a method of your own (can be a simple manual 
+copy-and-paste operation) in a single file. Save this file in your local desk. Save also the keywords mentioned in each abstract 
+file (if the journal allows for keywords, otherwise you may use words of title of the paper as keywords) in another separate file. 
+You can also use beautiful soup or other web scrapping method to scrab the abstract from the journal of your choice.
+2)	 Consider an information retrieval system where a keyword plays the role search query. Write a script that uses logical 
+query-matching for five queries of your own choice (from the list of keywords) to find out whether a given query is found in the 
+document or not, so that for each keyword input, the program outputs 1 if a logical matching is found (the given keyword is found 
+in the abstract) and 0, otherwise.
+3)	Now instead, of compiling the abstracts into a single file, we want to keep each abstract as a separate file, labeled as 
+A1, A2, …, A20. Write a script that constructs an inverted file of the abstract files. Then suggest a program that employs a simple 
+string matching operation to output the list of files (abstract-file (A0, A1,..A20)) for each keyword.
+4)	We want to relax the assumption of exact matching between keywords and words of the abstract and allow the matching to be 
+considered correct if 90% of the characters of the keywords are found in one word of the abstract. Write a script that 
+implements this reasoning and display the result of your search operation. Make sure the output contains enough text to 
+be self-explanatory for the assessor. 
+
+B – Recommendation system on food dataset  (Provide a link of your collab account that shows the program is running as expected to be)
+The aim of this task is to show that you are able to run large scale project on Collab and able to comprehend the outcome of recommender system and change accordingly.
+1.	Use the comprehensive program that uses food data set to build recommendation using surprise library in python available at 
+Using Scikit-Surprise to Create a Simple Recipe Collaborative Filtering Recommender System. – Data Science Portfolio 
+(alldatascience.com). 
+2.	We want to change the metrics to evaluate the performance with respect to Precision@10, Recall@10 and MAP@10   
+(restrict to top 10 uses), modify the program according and display the new results. 

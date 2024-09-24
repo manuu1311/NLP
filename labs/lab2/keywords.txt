@@ -1,0 +1,39 @@
+Student Performance Analysis, Deep Learning, LSTM Model, Good Performers, Poor Performers, Student Support Placement, Eligibility Dropout Prediction 
+-next-
+Sentiment Analysis, Aspect Category Detection, Bidirectional Long Short-Term Memory, Multi-Label Text Classification, Deep Learning 
+-next-
+Cybercrime, Digital Forensics, Digital Evidence, Anti-Forensics, Social Media Forensics, Text Sentiment 
+-next-
+TOPSIS, Fuzzy Logic Decision Model, Decision Making, Object-Oriented Approach 
+-next-
+Convolutional Neural Networks, Deep Learning, Data Augmentation, Image Preprocessing, Skin Lesion Classification 
+-next-
+Authorship Attribution, Arabic Poetry, Text Classification, Machine Learning Techniques 
+-next-
+Metrics, Cohesion Metrics, Ontology, Ontology Based System, Semantic Web 
+-next-
+Remote sensing algorithm, accuracy assessment, artificial intelligence 
+-next-
+MANET, Routing Protocol, On-demand active and reactive protocols 
+-next-
+Android Security Permissions, Malicious Application Data Leakage 
+-next-
+Transformation, normalization, induction decision tree, rules generation, KNN, LTF_C 
+-next-
+Authorship Attribution Arabic Poetry Text Classification Machine Learning Techniques 
+-next-
+Active magnetic bearing system, rotor unbalance, wavelet neural network, radial basis function, LM algorithm, hidden neurons, nonlinear dynamic oscillations 
+-next-
+Payroll Management Software, New Pension Scheme, JSP database, Structured Query Language
+-next-
+Mobile Technology, Patient Methodology, TAM Tracking 
+-next-
+K-Means clustering, K-Medoids clustering, data clustering, cluster analysis 
+-next-
+Digital image, watermarking image, copyright protection, frequency-domain watermarking, Discrete Wavelet Transform Discrete Cosine Transform 
+-next-
+Path planning, genetic algorithms, robotics 
+-next-
+Remote sensing, algorithm accuracy assessment, artificial intelligence 
+-next-
+Endoscopy, Anatomical Landmarks, Transformer, Abnormality Detection, Computer Aided Diagnosis 

@@ -1,0 +1,1153 @@
+in -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
+addressing -> A0
+the -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
+need -> A0-> A9-> A14-> A16
+for -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
+successful -> A0-> A4
+frameworks -> A0
+to -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
+break -> A0
+down -> A0
+understudy -> A0
+execution -> A0-> A15
+this -> A0-> A1-> A2-> A3-> A4-> A5-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
+study -> A0-> A1-> A3-> A5-> A10-> A11-> A12-> A13-> A14-> A17-> A19
+presents -> A0-> A19
+a -> A0-> A1-> A2-> A3-> A4-> A5-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
+profound -> A0
+learning-based -> A0
+approach -> A0-> A1-> A3-> A12-> A13-> A14-> A15
+thorough -> A0
+examination -> A0-> A13-> A19
+inside -> A0
+instructive -> A0
+establishments -> A0
+framework -> A0
+intends -> A0
+evaluate -> A0-> A2-> A14
+understudies -> A0
+presentation -> A0
+levels -> A0
+and -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
+distinguish -> A0
+those -> A0-> A9-> A14-> A15
+qualified -> A0
+positions -> A0
+needing -> A0
+extra -> A0-> A9
+help -> A0-> A9-> A13-> A17-> A19
+or -> A0-> A9-> A15
+danger -> A0
+of -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
+exiting -> A0
+utilizing -> A0-> A4-> A9
+long -> A0-> A19
+momentary -> A0
+memory -> A0
+lstm -> A0
+model -> A0-> A1-> A3-> A4-> A5-> A11-> A13-> A14
+sort -> A0
+intermittent -> A0
+brain -> A0
+organization -> A0-> A13
+rnn -> A0
+proposed -> A0-> A1-> A2-> A4-> A12-> A13-> A17-> A19
+predicts -> A0
+fourth-year -> A0
+by -> A0-> A2-> A3-> A4-> A5-> A6-> A7-> A9-> A11-> A12-> A15-> A17-> A18-> A19
+three -> A0-> A3-> A4-> A10-> A12
+years -> A0-> A3-> A8
+verifiable -> A0
+marks -> A0
+information -> A0-> A2-> A9-> A13-> A14
+catch -> A0
+fleeting -> A0
+examples -> A0
+conditions -> A0
+broad -> A0
+testing -> A0-> A4
+assessment -> A0
+show -> A0-> A12-> A16
+models -> A0-> A3-> A16
+surprising -> A0
+exactness -> A0
+accomplishing -> A0
+an -> A0-> A1-> A3-> A4-> A8-> A9-> A12-> A13-> A14-> A15-> A16-> A17-> A19
+accuracy -> A0-> A1-> A4-> A5-> A10-> A11-> A13-> A15-> A19
+998 -> A0
+% -> A0-> A1-> A5-> A7-> A9-> A11-> A18-> A19
+distinctive -> A0
+understudies’ -> A0
+exhibition -> A0
+through -> A0-> A4-> A9-> A19
+force -> A0
+realizing -> A0
+engages -> A0
+precisely -> A0
+separate -> A0
+between -> A0-> A2-> A8-> A10-> A14-> A17-> A19
+high-performing -> A0
+low-performing -> A0
+in-danger -> A0
+working -> A0
+with -> A0-> A1-> A2-> A3-> A5-> A7-> A8-> A11-> A12-> A13-> A15-> A17-> A18-> A19
+vocation -> A0
+arranging -> A0
+giving -> A0-> A9
+designated -> A0
+open -> A0
+doors -> A0
+addition -> A0-> A2
+it -> A0-> A1-> A2-> A4-> A6-> A7-> A9-> A13-> A14-> A18
+promotes -> A0
+good -> A0-> A12
+mediation -> A0
+students -> A0
+who -> A0
+are -> A0-> A1-> A2-> A5-> A8-> A9-> A10-> A11-> A13-> A14-> A15-> A16-> A17-> A19
+at -> A0-> A5-> A11
+risk -> A0
+dropping -> A0
+out -> A0-> A1-> A9-> A15
+improving -> A0
+real -> A0
+standards -> A0
+introducing -> A0
+deep -> A0-> A1
+learning -> A0-> A1-> A10-> A12-> A15
+strategies -> A0
+especially -> A0
+research -> A0-> A1-> A2-> A3-> A4-> A6-> A8-> A9-> A13-> A14-> A15
+provides -> A0-> A9-> A12
+valuable -> A0
+experience -> A0
+direct -> A0
+prospects -> A0
+investigating -> A0-> A2
+implementation -> A0
+non-earning -> A0
+people -> A0-> A8-> A9
+empowering -> A0
+organizations -> A0
+follow -> A0
+making -> A0
+informed -> A0
+choices -> A0
+showing -> A0
+direction -> A0
+finally -> A0
+that -> A0-> A1-> A2-> A4-> A6-> A7-> A8-> A9-> A10-> A12-> A14-> A15-> A16-> A17-> A18
+is -> A0-> A1-> A2-> A4-> A5-> A6-> A8-> A9-> A10-> A11-> A13-> A14-> A15-> A16-> A19
+being -> A0
+developed -> A0-> A3-> A13-> A16
+can -> A0-> A8-> A9-> A13-> A15-> A16-> A17
+improve -> A0-> A2-> A4
+result -> A0-> A19
+education -> A0
+without -> A0
+achieving -> A0
+enhancing -> A0
+dynamic -> A0-> A2-> A6-> A12
+changes -> A0-> A13
+encouraging -> A0
+individual -> A0
+contributions -> A0
+educational -> A0
+areas -> A0-> A6-> A8-> A15
+field -> A1-> A15
+sentiment -> A1
+analysis -> A1-> A3-> A4-> A5-> A11
+notion -> A1
+aspect -> A1
+category -> A1-> A8-> A15
+identification -> A1
+lays -> A1
+emphasis -> A1
+on -> A1-> A2-> A6-> A8-> A9-> A10-> A12-> A13-> A14-> A15-> A16
+identifying -> A1-> A2-> A19
+categories -> A1
+specific -> A1-> A5-> A6-> A11
+review -> A1-> A3
+phrase -> A1
+purpose -> A1-> A4-> A14
+propose -> A1
+novel -> A1
+reviews -> A1-> A8
+published -> A1
+hindi -> A1
+training -> A1-> A4-> A5-> A11
+evaluation -> A1-> A4-> A14-> A16
+supervised -> A1
+based -> A1-> A8-> A9-> A10-> A12-> A13-> A14-> A15-> A16-> A17
+enable -> A1-> A8
+extraction -> A1
+every -> A1
+experiment -> A1-> A5-> A11
+carried -> A1
+well-accepted -> A1
+dataset -> A1-> A4-> A5-> A11
+one -> A1-> A8-> A12-> A15-> A16
+challenges -> A1-> A2
+involved -> A1-> A3
+recognition -> A1-> A7-> A18
+classification -> A1-> A2-> A4-> A5-> A7-> A11-> A18
+text -> A1-> A5-> A11
+has -> A1-> A2-> A4-> A6-> A9-> A12-> A13-> A14-> A16-> A17
+several -> A1-> A2-> A5-> A7-> A11-> A18-> A19
+labels -> A1
+utilization -> A1-> A3
+neural -> A1-> A7-> A12-> A18
+network -> A1-> A7-> A8-> A12-> A18
+founded -> A1
+bilstm -> A1
+leads -> A1
+enhancement -> A1
+detection -> A1-> A4-> A19
+outcomes -> A1
+results -> A1-> A2-> A7-> A12-> A13-> A15-> A16-> A17-> A18
+came -> A1
+f-score -> A1
+08345 -> A1
+9391 -> A1
+when -> A1
+applied -> A1-> A10-> A15
+well-known -> A1
+offered -> A1
+architecture -> A1-> A4
+conjunction -> A1
+were -> A1-> A7-> A10-> A15-> A18
+achieved -> A1
+gives -> A1
+great -> A1
+deal -> A1
+significance -> A1
+because -> A1-> A8
+serves -> A1-> A3
+as -> A1-> A2-> A3-> A5-> A6-> A8-> A10-> A11-> A12-> A13-> A14-> A15-> A17-> A19
+fundamental -> A1-> A6
+resource -> A1-> A9
+future -> A1
+activities -> A1-> A2-> A9
+related -> A1-> A2-> A9-> A13-> A14-> A19
+issue -> A1-> A14
+deep-learning -> A1
+aim -> A1
+detecting -> A1
+both -> A1-> A13-> A15
+new -> A1-> A8-> A10-> A13
+state-of-the-art -> A1-> A19
+their -> A1-> A9-> A10-> A14-> A15
+respective -> A1
+fields -> A1
+digital -> A2-> A16
+forensics -> A2
+gained -> A2
+high -> A2-> A19
+degree -> A2
+attention -> A2
+recently -> A2-> A6-> A8-> A19
+due -> A2-> A16
+benefits -> A2
+offer -> A2
+cybercrimes -> A2
+analyzing -> A2-> A13
+presenting -> A2
+evidence -> A2
+aims -> A2-> A14
+highlight -> A2
+any -> A2-> A13
+correlations -> A2
+such -> A2-> A5-> A6-> A8-> A11-> A12-> A13-> A15-> A16-> A17
+crimes -> A2
+since -> A2
+techniques -> A2-> A4-> A5-> A11-> A17
+capable -> A2
+providing -> A2
+robust -> A2-> A16
+credible -> A2
+they -> A2-> A9-> A10
+have -> A2-> A4-> A5-> A6-> A8-> A9-> A11-> A16-> A19
+been -> A2-> A4-> A5-> A6-> A7-> A8-> A9-> A11-> A13-> A16-> A18-> A19
+used -> A2-> A4-> A5-> A8-> A11-> A12
+different -> A2-> A4-> A5-> A10-> A11-> A15
+contexts -> A2
+accepted -> A2
+law -> A2
+enforcement -> A2-> A16
+agencies -> A2
+social -> A2
+media -> A2-> A16
+subdomain -> A2
+also -> A2-> A5-> A9-> A11
+widely -> A2-> A3-> A16
+investigate -> A2-> A14
+suspicious -> A2
+platforms -> A2
+associated -> A2
+anti-forensics -> A2
+faces -> A2
+obstacles -> A2
+privacy -> A2
+big -> A2
+data -> A2-> A4-> A5-> A7-> A9-> A10-> A11-> A13-> A15-> A18
+issues -> A2
+proposes -> A2
+methodology -> A2-> A10-> A14
+utilizes -> A2
+investigation -> A2
+committed -> A2
+offers -> A2
+level -> A2-> A5-> A11
+flexibility -> A2
+including -> A2
+choosing -> A2-> A8
+type -> A2
+crime -> A2
+platform -> A2
+scenario -> A2
+part -> A2-> A5-> A9-> A11
+contribution -> A2
+detect -> A2-> A19
+covid-19 -> A2
+pandemic -> A2
+various -> A2-> A8
+tools -> A2-> A3
+vader -> A2
+tweet -> A2
+other -> A2-> A3-> A4-> A13
+collecting -> A2
+extracting -> A2
+tweets’ -> A2
+correlation -> A2
+indicate -> A2-> A3
+simple -> A2-> A3
+handling -> A2
+collected -> A2
+well -> A2-> A14
+relations -> A2
+could -> A2
+be -> A2-> A4-> A5-> A6-> A8-> A11-> A12-> A13-> A15-> A16-> A17
+extended -> A2
+many -> A2-> A6-> A9-> A15-> A17
+ways -> A2-> A15
+handle -> A2
+limitations -> A2
+general -> A2-> A6
+particular -> A2-> A16
+fuzzy -> A3
+logic -> A3
+computational -> A3
+modeling -> A3-> A4
+method -> A3-> A10-> A19
+particularly -> A3
+prominent -> A3
+domain -> A3-> A6-> A8
+decision -> A3-> A7-> A18
+assess -> A3
+prevalent -> A3-> A16
+trends -> A3
+landscape -> A3
+its -> A3-> A13-> A14
+common -> A3
+combinations -> A3
+methods -> A3-> A10-> A17-> A19
+conceptual -> A3
+article -> A3
+was -> A3-> A7-> A10-> A12-> A15-> A18
+stages -> A3
+bibliometric -> A3
+construction -> A3
+findings -> A3
+exponential -> A3-> A9
+growth -> A3-> A9-> A16
+use -> A3-> A4-> A6-> A7-> A9-> A13-> A14-> A18
+according -> A3
+10530 -> A3
+documents -> A3-> A5-> A11
+ten -> A3
+technique -> A3-> A15
+order -> A3-> A4-> A6
+preference -> A3
+similarity -> A3
+ideal -> A3
+solution -> A3-> A13
+topsis -> A3
+emerging -> A3
+favored -> A3
+combined -> A3-> A12-> A16
+11 -> A3
+year -> A3
+2023 -> A3
+additionally -> A3
+comprehensive -> A3
+analysis-based -> A3
+reviewing -> A3
+designed -> A3-> A10-> A14
+using -> A3-> A5-> A7-> A10-> A11-> A15-> A16-> A17-> A18
+object-oriented -> A3
+via -> A3
+uml -> A3
+class -> A3
+20 -> A3-> A8
+identified -> A3
+classes -> A3-> A8
+sequence -> A3
+case -> A3-> A9-> A15
+3 -> A3
+cases -> A3
+diagram -> A3
+significant -> A4
+threat -> A4
+peoples -> A4
+health -> A4-> A14
+all -> A4-> A13-> A14
+over -> A4-> A8-> A9-> A12
+world -> A4-> A9
+skin -> A4
+cancer -> A4
+cnn -> A4
+makes -> A4
+preprocessing -> A4
+augmentation -> A4
+ham10000 -> A4
+imbalance -> A4
+contains -> A4
+addressed -> A4
+resizing -> A4
+images -> A4-> A16
+120�120 -> A4
+pixels -> A4
+removing -> A4
+hair -> A4
+increasing -> A4-> A9
+diversity -> A4
+datasets -> A4
+beneficial -> A4
+processes -> A4
+achieve -> A4
+best -> A4-> A7-> A10-> A15-> A18
+possible -> A4
+lesions -> A4
+incorporates -> A4
+layers -> A4
+carefully -> A4
+tuned -> A4
+divided -> A4-> A5-> A8-> A11
+into -> A4-> A5-> A8-> A9-> A10-> A11-> A13
+sets -> A4-> A5-> A11-> A15
+validation -> A4
+metrics -> A4-> A6
+which -> A4-> A9-> A10-> A16-> A17-> A19
+include -> A4
+precision -> A4-> A19
+recall -> A4
+f1 -> A4
+score -> A4
+point -> A4-> A17
+highly -> A4-> A19
+performance -> A4-> A5-> A11-> A12-> A15-> A16
+0932 -> A4
+demonstrates -> A4
+superior -> A4
+approaches -> A4-> A14
+lesion -> A4
+signifies -> A4
+potential -> A4
+effective -> A4
+instrument -> A4-> A19
+early -> A4
+authorship -> A5-> A11
+attribution -> A5-> A11
+arabic -> A5-> A11
+poetry -> A5-> A11
+will -> A5-> A11-> A14
+conducted -> A5-> A11
+determine -> A5-> A11
+specified -> A5-> A11
+after -> A5-> A11-> A13
+recognized -> A5-> A11-> A16
+authorships -> A5-> A11
+allocated -> A5-> A11
+work -> A5-> A8-> A11
+measures -> A5-> A11
+impact -> A5-> A11
+na�ve -> A5-> A11
+bayes -> A5-> A11
+support -> A5-> A11
+vector -> A5-> A11
+machine -> A5-> A11
+linear -> A5-> A11
+discriminant -> A5-> A11
+mining -> A5-> A11-> A15
+features -> A5-> A11-> A15
+lexical -> A5-> A11
+character -> A5-> A11
+structural -> A5-> A11
+syntactic -> A5-> A11
+semantic -> A5-> A6-> A11
+word -> A5-> A9-> A11
+utilized -> A5-> A11-> A14
+input -> A5-> A11-> A15
+algorithms -> A5-> A7-> A11-> A15-> A16-> A17-> A18
+apaam -> A5-> A11
+two -> A5-> A8-> A11-> A12-> A15-> A16
+known -> A5-> A11
+poetic -> A5-> A11
+texts -> A5-> A11
+anonymous -> A5-> A11
+test -> A5-> A11
+set -> A5-> A9-> A10-> A11
+114 -> A5-> A11
+random -> A5-> A11
+poets -> A5-> A11
+from -> A5-> A7-> A9-> A11-> A15-> A16-> A18-> A19
+entirely -> A5-> A11
+eras -> A5-> A11
+highest -> A5-> A11
+value -> A5-> A11
+99 -> A5-> A11-> A19
+12 -> A5-> A11
+rate -> A5-> A11
+attribute -> A5-> A11-> A14
+98246 -> A5-> A11
+92836 -> A5-> A11
+ontology -> A6
+development -> A6-> A8-> A13
+driven -> A6-> A8
+web -> A6
+ontologies -> A6
+suggested -> A6
+application -> A6-> A8-> A9-> A14
+targeted -> A6
+service -> A6
+composition -> A6
+matching -> A6
+characteristics -> A6-> A16
+these -> A6-> A8-> A9-> A13-> A14-> A15-> A19
+must -> A6
+determined -> A6
+effectively -> A6
+make -> A6
+them -> A6-> A9-> A19
+example -> A6
+sirin -> A6
+hendler -> A6
+parsia -> A6
+determining -> A6
+important -> A6-> A8-> A15
+our -> A6-> A17
+examines -> A6
+cohesion -> A6
+examine -> A6
+quality -> A6-> A15
+relates -> A6
+pattern -> A7-> A18
+had -> A7-> A13-> A18
+tested -> A7-> A10-> A12-> A18
+mapping -> A7-> A18
+tropical -> A7-> A18
+forest -> A7-> A18
+cover -> A7-> A18
+airborne -> A7-> A18
+hyperspectral -> A7-> A18
+maximum -> A7-> A18
+likelihood -> A7-> A18
+ml -> A7-> A18
+spectral -> A7-> A18
+angle -> A7-> A18
+mapper -> A7-> A18
+sam -> A7-> A18
+artificial -> A7-> A18
+ann -> A7-> A18
+tree -> A7-> A10-> A18
+dt -> A7-> A18
+classifiers -> A7-> A18
+compared -> A7-> A15-> A18
+evaluated -> A7-> A18
+found -> A7-> A13-> A15-> A18
+performed -> A7-> A18
+followed -> A7-> A8-> A18
+accuracies -> A7-> A18
+86 -> A7-> A18
+84 -> A7-> A18
+51 -> A7-> A18
+49 -> A7-> A18
+respectively -> A7-> A18
+mobile -> A8-> A9-> A14-> A17
+ad -> A8
+hoc -> A8
+networksmanet -> A8
+represent -> A8
+complex -> A8
+distributed -> A8-> A15
+systems -> A8-> A12-> A16
+comprise -> A8
+wireless -> A8
+nodes -> A8-> A10
+freely -> A8
+dynamically -> A8
+self -> A8
+organize -> A8
+arbitrary -> A8
+temporary -> A8
+ad-hoc -> A8
+topologies -> A8
+allowing -> A8
+devices -> A8
+seamlessly -> A8
+internet -> A8
+no -> A8
+preexisting -> A8
+communication -> A8
+infrastructure -> A8
+eg -> A8
+disaster -> A8
+recovery -> A8
+environments -> A8
+not -> A8-> A9
+having -> A8
+around -> A8
+forms -> A8
+traditionally -> A8-> A19
+tactical -> A8
+networks -> A8
+only -> A8-> A19
+networking -> A8
+paradigm -> A8
+introduction -> A8
+technologies -> A8-> A16
+bluetooth -> A8
+ieee -> A8
+80211 -> A8
+hyperlan -> A8
+helping -> A8
+eventual -> A8
+commercial -> A8
+manet -> A8
+deployments -> A8
+outside -> A8
+military -> A8
+recent -> A8
+revolutions -> A8
+generating -> A8
+renewed -> A8
+growing -> A8-> A10
+interest -> A8
+facilitate -> A8-> A19
+within -> A8-> A14-> A19
+routing -> A8
+protocol -> A8
+discover -> A8
+routes -> A8
+goal -> A8
+efficient -> A8-> A12
+route -> A8
+establishment -> A8
+pair -> A8
+so -> A8-> A13-> A17
+messages -> A8
+delivered -> A8
+timely -> A8
+manner -> A8
+bandwidth -> A8
+power -> A8
+constraints -> A8
+factors -> A8-> A10
+considered -> A8
+current -> A8-> A9-> A14
+multi-hop -> A8
+relies -> A8
+each -> A8-> A10-> A14-> A15
+node -> A8
+act -> A8
+router -> A8
+packet -> A8
+forwarder -> A8
+dependency -> A8
+places -> A8
+computation -> A8
+demands -> A8
+host -> A8
+taken -> A8-> A10-> A15-> A17
+account -> A8-> A10
+while -> A8-> A14
+protocols -> A8
+wired -> A8
+mobility -> A8
+table -> A8
+demand -> A8
+paper -> A8-> A9-> A16
+discusses -> A8
+belonging -> A8-> A15
+today’s -> A9
+there -> A9-> A14
+among -> A9
+smart-phone -> A9
+users -> A9
+led -> A9
+unbridled -> A9
+apps -> A9
+available -> A9-> A14
+google -> A9
+play -> A9
+store -> A9
+app -> A9
+etc -> A9
+android -> A9
+free -> A9
+applications -> A9-> A14
+user -> A9-> A13-> A14
+shell -> A9
+penny -> A9
+services -> A9
+here -> A9
+magic -> A9
+entices -> A9
+millions -> A9
+pliant -> A9
+installing -> A9
+unnecessary -> A9
+access -> A9-> A14
+device -> A9
+control -> A9-> A12
+studies -> A9
+shown -> A9-> A12
+70 -> A9
+market -> A9
+request -> A9
+gather -> A9
+digressive -> A9
+most -> A9-> A15
+functions -> A9
+might -> A9
+cause -> A9-> A19
+seeping -> A9
+personal -> A9-> A13
+inefficient -> A9
+resources -> A9
+late -> A9
+couple -> A9
+malignant -> A9
+unobtrusive -> A9
+third-party -> A9
+permissions -> A9
+high-level -> A9
+operating -> A9
+system -> A9-> A12-> A13-> A14-> A16
+permission -> A9
+third -> A9
+party -> A9
+return -> A9
+granted -> A9
+bound -> A9
+grant -> A9
+deny -> A9
+permits -> A9
+during -> A9-> A15
+installation -> A9
+dont -> A9
+focus -> A9
+asked -> A9
+sometimes -> A9
+do -> A9
+understand -> A9
+meaning -> A9
+install -> A9
+allow -> A9
+way -> A9-> A13-> A15
+attackers -> A9
+perform -> A9
+malicious -> A9
+task -> A9
+demanding -> A9
+more -> A9-> A16
+than -> A9-> A15-> A16
+expected -> A9
+permit -> A9
+attacker -> A9
+exploit -> A9
+retrieve -> A9
+sensitive -> A9
+we -> A9-> A12-> A16-> A17
+describe -> A9-> A16
+how -> A9-> A14
+security -> A9-> A13
+create -> A9
+awareness -> A9
+would -> A9
+assist -> A9
+deciding -> A9
+grants -> A9
+improved -> A9-> A12-> A16
+responsible -> A9
+os -> A9
+securely -> A9
+emphasized -> A10
+types -> A10-> A12
+normalization -> A10
+against -> A10
+id3 -> A10
+hsv -> A10
+number -> A10-> A17
+leaf -> A10
+time -> A10-> A14-> A15-> A19
+comparisons -> A10
+accomplished -> A10
+matrix -> A10
+check -> A10
+priorities -> A10
+recommendations -> A10
+concluded -> A10
+problem -> A12-> A13-> A15
+statement -> A12-> A13-> A15
+synthesis -> A12
+command -> A12
+excellent -> A12-> A16
+advantage -> A12-> A15
+classical -> A12
+pid -> A12
+presented -> A12-> A13
+fast -> A12
+accurate -> A12-> A19
+wavelet -> A12-> A16
+wnn -> A12
+controlling -> A12-> A17
+active -> A12
+magnetic -> A12
+bearing -> A12
+amb -> A12
+theory -> A12
+may -> A12
+exploited -> A12
+deriving -> A12
+initialization -> A12
+thus -> A12
+convergence -> A12
+algorithm -> A12-> A15-> A16-> A17
+controllers -> A12
+multiplayer -> A12
+perceptron -> A12
+mlp -> A12
+controller -> A12
+rbf -> A12
+rbfnn -> A12
+simulation -> A12
+better -> A12
+comparing -> A12
+standard -> A12
+conclusion -> A12-> A13-> A15
+useful -> A12
+nonlinear -> A12
+mechanical -> A12
+done -> A13
+software -> A13
+design -> A13-> A14
+database -> A13
+payroll -> A13
+management -> A13
+pms -> A13
+defense -> A13
+institute -> A13
+physiology -> A13
+allied -> A13
+sciences -> A13
+dipas -> A13
+calculations -> A13
+provided -> A13
+employees -> A13
+details -> A13-> A14
+like -> A13
+basic -> A13-> A15
+pay -> A13
+house -> A13
+rent -> A13
+allowance -> A13
+loan -> A13
+inputs -> A13
+automatically -> A13
+generates -> A13
+slip -> A13
+bills -> A13
+schedules -> A13
+debit -> A13
+credit -> A13
+payments -> A13
+suit -> A13-> A14
+old -> A13
+pension -> A13
+schemes -> A13
+central -> A13
+government -> A13
+india -> A13
+java -> A13-> A15
+server -> A13
+pages -> A13
+jsp -> A13
+language -> A13-> A15
+allows -> A13-> A17
+easy -> A13
+modification -> A13
+directly -> A13-> A15
+implemented -> A13-> A15
+slight -> A13
+modifications -> A13
+manual -> A13-> A19
+operation -> A13
+computer-based -> A13
+automate -> A13
+provide -> A13
+efficiency -> A13
+timelessness -> A13
+economy -> A13
+undertaking -> A13
+in-depth -> A13
+existing -> A13
+short -> A13
+comings -> A13
+necessary -> A13
+remove -> A13
+deficiencies -> A13
+suitable -> A13
+presently -> A13
+encountered -> A13-> A17
+manage -> A13
+efficiently -> A13
+employee -> A13
+salary -> A13
+healthcare -> A14
+professionals -> A14
+spend -> A14
+much -> A14
+wandering -> A14
+patients -> A14-> A19
+offices -> A14
+supportive -> A14
+technology -> A14-> A16
+stays -> A14
+stationary -> A14
+therefore -> A14
+adapted -> A14
+industry -> A14
+spite -> A14
+advancement -> A14
+variety -> A14
+eminent -> A14
+position -> A14
+acceptance -> A14
+tailored -> A14
+towards -> A14
+tracking -> A14
+condition -> A14
+share -> A14
+consequently -> A14
+quantitative -> A14
+questionnaire -> A14
+primary -> A14
+tam -> A14
+constructs -> A14
+perceived -> A14
+usefulness -> A14
+ease -> A14
+satisfaction -> A14
+usability -> A14
+modified -> A14
+context -> A14
+moreover -> A14-> A19
+outlines -> A14
+construct -> A14
+relevance -> A14
+toward -> A14
+outcome -> A14
+represents -> A14
+series -> A14
+apply -> A14
+checking -> A14
+suitability -> A14
+patient -> A14
+progress -> A14
+care -> A14
+achieves -> A14
+objectives -> A14
+clustering -> A15
+means -> A15
+creating -> A15
+groups -> A15
+objects -> A15-> A16
+same -> A15
+similar -> A15-> A16
+dissimilar -> A15
+unsupervised -> A15
+main -> A15
+interesting -> A15
+patterns -> A15
+structures -> A15-> A19
+very -> A15
+large -> A15
+little -> A15
+none -> A15
+background -> A15
+knowledge -> A15
+domains -> A15
+representative -> A15
+k-means -> A15
+k-medoids -> A15
+examined -> A15
+analyzed -> A15
+points -> A15
+generated -> A15
+normal -> A15
+distribution -> A15
+another -> A15
+applying -> A15
+uniform -> A15
+randomly -> A15
+clusters -> A15
+runs -> A15
+investigated -> A15
+program -> A15
+average -> A15
+greater -> A15
+distributions -> A15
+proved -> A15
+satisfactory -> A15
+proliferation -> A16
+digitized -> A16
+rapid -> A16-> A19
+networked -> A16
+multimedia -> A16
+created -> A16
+urgent -> A16
+copyright -> A16
+protect -> A16
+ownership -> A16
+image -> A16-> A19
+watermarking -> A16
+illegal -> A16
+manipulations -> A16
+discrete -> A16
+transform -> A16
+others -> A16
+wavelets -> A16
+spatial -> A16
+localization -> A16
+frequency -> A16
+spread -> A16
+multi-resolution -> A16
+theoretical -> A16
+human -> A16-> A19
+visual -> A16
+imperceptible -> A16
+dwt-dct -> A16
+watermarks -> A16
+given -> A16
+combination -> A16
+dwt -> A16
+cosine -> A16
+dct -> A16
+combining -> A16
+transforms -> A16
+solely -> A16
+present -> A17
+initial -> A17
+idea -> A17
+genetic -> A17
+controllable -> A17
+robot -> A17
+find -> A17
+optimal -> A17
+path -> A17
+starting -> A17
+ending -> A17
+grid -> A17
+environment -> A17
+reduces -> A17
+steps -> A17
+target -> A17
+gas -> A17
+overcome -> A17
+problems -> A17
+traditional -> A17
+search -> A17
+gradient -> A17
+four-neighbor -> A17
+movements -> A17
+path-planning -> A17
+adapt -> A17
+complicated -> A17
+spaces -> A17
+low -> A17
+complexities -> A17
+promising -> A17
+endoscopy -> A19
+routine -> A19
+medical -> A19
+procedure -> A19
+observe -> A19
+tumors -> A19
+gastrointestinal -> A19
+gi -> A19
+tract -> A19
+inserting -> A19
+endoscope -> A19
+thin -> A19
+flexible -> A19
+tube-like -> A19
+light -> A19
+source -> A19
+camera -> A19
+endoscopist -> A19
+performs -> A19
+orients -> A19
+navigates -> A19
+familiar -> A19
+anatomical -> A19
+landmarks -> A19
+reach -> A19
+abnormalities -> A19
+mark -> A19
+critical -> A19
+maneuver -> A19
+success -> A19
+patient’s -> A19
+comfort -> A19
+injury -> A19
+diagnosis -> A19
+naked-eye-observation -> A19
+challenging -> A19
+take -> A19
+often -> A19
+discomfort -> A19
+endoscopists -> A19
+ai-based -> A19
+landmark -> A19
+autonomous -> A19
+however -> A19
+lack -> A19
+consider -> A19
+limited -> A19
+data-efficient -> A19
+transformer -> A19
+deit-based -> A19
+anomalies -> A19
+detected -> A19
+23 -> A19
+entire -> A19
+outperforming -> A19
+91 -> A19
+took -> A19
+0045 -> A19
+sec -> A19
+identify -> A19
+phi -> A19
+coefficient -> A19
+0997 -> A19
+indicated -> A19
+strong -> A19
+positive -> A19
+association -> A19
+clinical -> A19
+ground -> A19
+truth -> A19
+speed -> A19
+ensured -> A19
+reliability -> A19
