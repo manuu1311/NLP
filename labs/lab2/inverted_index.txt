@@ -3,7 +3,7 @@ addressing -> A0
 the -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
 need -> A0-> A9-> A14-> A16
 for -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
-successful -> A0-> A4
+successful -> A0-> A4-> A11
 frameworks -> A0
 to -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
 break -> A0
@@ -11,7 +11,7 @@ down -> A0
 understudy -> A0
 execution -> A0-> A15
 this -> A0-> A1-> A2-> A3-> A4-> A5-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
-study -> A0-> A1-> A3-> A5-> A10-> A11-> A12-> A13-> A14-> A17-> A19
+study -> A0-> A1-> A3-> A5-> A10-> A12-> A13-> A14-> A17-> A19
 presents -> A0-> A19
 a -> A0-> A1-> A2-> A3-> A4-> A5-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
 profound -> A0
@@ -40,7 +40,7 @@ or -> A0-> A9-> A15
 danger -> A0
 of -> A0-> A1-> A2-> A3-> A4-> A5-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A18-> A19
 exiting -> A0
-utilizing -> A0-> A4-> A9
+utilizing -> A0-> A4-> A9-> A11
 long -> A0-> A19
 momentary -> A0
 memory -> A0
@@ -51,11 +51,11 @@ intermittent -> A0
 brain -> A0
 organization -> A0-> A13
 rnn -> A0
-proposed -> A0-> A1-> A2-> A4-> A12-> A13-> A17-> A19
+proposed -> A0-> A1-> A2-> A4-> A11-> A12-> A13-> A17-> A19
 predicts -> A0
 fourth-year -> A0
 by -> A0-> A2-> A3-> A4-> A5-> A6-> A7-> A9-> A11-> A12-> A15-> A17-> A18-> A19
-three -> A0-> A3-> A4-> A10-> A12
+three -> A0-> A3-> A4-> A10-> A11-> A12
 years -> A0-> A3-> A8
 verifiable -> A0
 marks -> A0
@@ -65,21 +65,21 @@ fleeting -> A0
 examples -> A0
 conditions -> A0
 broad -> A0
-testing -> A0-> A4
+testing -> A0-> A4-> A11
 assessment -> A0
 show -> A0-> A12-> A16
 models -> A0-> A3-> A16
 surprising -> A0
 exactness -> A0
 accomplishing -> A0
-an -> A0-> A1-> A3-> A4-> A8-> A9-> A12-> A13-> A14-> A15-> A16-> A17-> A19
+an -> A0-> A1-> A3-> A4-> A8-> A9-> A11-> A12-> A13-> A14-> A15-> A16-> A17-> A19
 accuracy -> A0-> A1-> A4-> A5-> A10-> A11-> A13-> A15-> A19
 998 -> A0
-% -> A0-> A1-> A5-> A7-> A9-> A11-> A18-> A19
+% -> A0-> A1-> A5-> A7-> A9-> A18-> A19
 distinctive -> A0
 understudiesâ€™ -> A0
 exhibition -> A0
-through -> A0-> A4-> A9-> A19
+through -> A0-> A4-> A9-> A11-> A19
 force -> A0
 realizing -> A0
 engages -> A0
@@ -90,7 +90,7 @@ high-performing -> A0
 low-performing -> A0
 in-danger -> A0
 working -> A0
-with -> A0-> A1-> A2-> A3-> A5-> A7-> A8-> A11-> A12-> A13-> A15-> A17-> A18-> A19
+with -> A0-> A1-> A2-> A3-> A5-> A7-> A8-> A12-> A13-> A15-> A17-> A18-> A19
 vocation -> A0
 arranging -> A0
 giving -> A0-> A9
@@ -98,14 +98,14 @@ designated -> A0
 open -> A0
 doors -> A0
 addition -> A0-> A2
-it -> A0-> A1-> A2-> A4-> A6-> A7-> A9-> A13-> A14-> A18
+it -> A0-> A1-> A2-> A4-> A6-> A7-> A9-> A11-> A13-> A14-> A18
 promotes -> A0
 good -> A0-> A12
 mediation -> A0
 students -> A0
 who -> A0
-are -> A0-> A1-> A2-> A5-> A8-> A9-> A10-> A11-> A13-> A14-> A15-> A16-> A17-> A19
-at -> A0-> A5-> A11
+are -> A0-> A1-> A2-> A5-> A8-> A9-> A10-> A13-> A14-> A15-> A16-> A17-> A19
+at -> A0-> A5
 risk -> A0
 dropping -> A0
 out -> A0-> A1-> A9-> A15
@@ -117,7 +117,7 @@ deep -> A0-> A1
 learning -> A0-> A1-> A10-> A12-> A15
 strategies -> A0
 especially -> A0
-research -> A0-> A1-> A2-> A3-> A4-> A6-> A8-> A9-> A13-> A14-> A15
+research -> A0-> A1-> A2-> A3-> A4-> A6-> A8-> A9-> A11-> A13-> A14-> A15
 provides -> A0-> A9-> A12
 valuable -> A0
 experience -> A0
@@ -136,12 +136,12 @@ choices -> A0
 showing -> A0
 direction -> A0
 finally -> A0
-that -> A0-> A1-> A2-> A4-> A6-> A7-> A8-> A9-> A10-> A12-> A14-> A15-> A16-> A17-> A18
+that -> A0-> A1-> A2-> A4-> A6-> A7-> A8-> A9-> A10-> A11-> A12-> A14-> A15-> A16-> A17-> A18
 is -> A0-> A1-> A2-> A4-> A5-> A6-> A8-> A9-> A10-> A11-> A13-> A14-> A15-> A16-> A19
 being -> A0
 developed -> A0-> A3-> A13-> A16
 can -> A0-> A8-> A9-> A13-> A15-> A16-> A17
-improve -> A0-> A2-> A4
+improve -> A0-> A2-> A4-> A11
 result -> A0-> A19
 education -> A0
 without -> A0
@@ -166,23 +166,23 @@ emphasis -> A1
 on -> A1-> A2-> A6-> A8-> A9-> A10-> A12-> A13-> A14-> A15-> A16
 identifying -> A1-> A2-> A19
 categories -> A1
-specific -> A1-> A5-> A6-> A11
+specific -> A1-> A5-> A6
 review -> A1-> A3
 phrase -> A1
-purpose -> A1-> A4-> A14
+purpose -> A1-> A4-> A11-> A14
 propose -> A1
 novel -> A1
 reviews -> A1-> A8
 published -> A1
 hindi -> A1
 training -> A1-> A4-> A5-> A11
-evaluation -> A1-> A4-> A14-> A16
+evaluation -> A1-> A4-> A11-> A14-> A16
 supervised -> A1
 based -> A1-> A8-> A9-> A10-> A12-> A13-> A14-> A15-> A16-> A17
 enable -> A1-> A8
 extraction -> A1
 every -> A1
-experiment -> A1-> A5-> A11
+experiment -> A1-> A5
 carried -> A1
 well-accepted -> A1
 dataset -> A1-> A4-> A5-> A11
@@ -191,9 +191,9 @@ challenges -> A1-> A2
 involved -> A1-> A3
 recognition -> A1-> A7-> A18
 classification -> A1-> A2-> A4-> A5-> A7-> A11-> A18
-text -> A1-> A5-> A11
-has -> A1-> A2-> A4-> A6-> A9-> A12-> A13-> A14-> A16-> A17
-several -> A1-> A2-> A5-> A7-> A11-> A18-> A19
+text -> A1-> A5
+has -> A1-> A2-> A4-> A6-> A9-> A11-> A12-> A13-> A14-> A16-> A17
+several -> A1-> A2-> A5-> A7-> A18-> A19
 labels -> A1
 utilization -> A1-> A3
 neural -> A1-> A7-> A12-> A18
@@ -202,7 +202,7 @@ founded -> A1
 bilstm -> A1
 leads -> A1
 enhancement -> A1
-detection -> A1-> A4-> A19
+detection -> A1-> A4-> A11-> A19
 outcomes -> A1
 results -> A1-> A2-> A7-> A12-> A13-> A15-> A16-> A17-> A18
 came -> A1
@@ -213,7 +213,7 @@ when -> A1
 applied -> A1-> A10-> A15
 well-known -> A1
 offered -> A1
-architecture -> A1-> A4
+architecture -> A1-> A4-> A11
 conjunction -> A1
 were -> A1-> A7-> A10-> A15-> A18
 achieved -> A1
@@ -223,7 +223,7 @@ deal -> A1
 significance -> A1
 because -> A1-> A8
 serves -> A1-> A3
-as -> A1-> A2-> A3-> A5-> A6-> A8-> A10-> A11-> A12-> A13-> A14-> A15-> A17-> A19
+as -> A1-> A2-> A3-> A5-> A6-> A8-> A10-> A12-> A13-> A14-> A15-> A17-> A19
 fundamental -> A1-> A6
 resource -> A1-> A9
 future -> A1
@@ -257,7 +257,7 @@ aims -> A2-> A14
 highlight -> A2
 any -> A2-> A13
 correlations -> A2
-such -> A2-> A5-> A6-> A8-> A11-> A12-> A13-> A15-> A16-> A17
+such -> A2-> A5-> A6-> A8-> A12-> A13-> A15-> A16-> A17
 crimes -> A2
 since -> A2
 techniques -> A2-> A4-> A5-> A11-> A17
@@ -278,7 +278,7 @@ agencies -> A2
 social -> A2
 media -> A2-> A16
 subdomain -> A2
-also -> A2-> A5-> A9-> A11
+also -> A2-> A5-> A9
 widely -> A2-> A3-> A16
 investigate -> A2-> A14
 suspicious -> A2
@@ -297,7 +297,7 @@ utilizes -> A2
 investigation -> A2
 committed -> A2
 offers -> A2
-level -> A2-> A5-> A11
+level -> A2-> A5
 flexibility -> A2
 including -> A2
 choosing -> A2-> A8
@@ -305,7 +305,7 @@ type -> A2
 crime -> A2
 platform -> A2
 scenario -> A2
-part -> A2-> A5-> A9-> A11
+part -> A2-> A5-> A9
 contribution -> A2
 detect -> A2-> A19
 covid-19 -> A2
@@ -314,7 +314,7 @@ various -> A2-> A8
 tools -> A2-> A3
 vader -> A2
 tweet -> A2
-other -> A2-> A3-> A4-> A13
+other -> A2-> A3-> A4-> A11-> A13
 collecting -> A2
 extracting -> A2
 tweetsâ€™ -> A2
@@ -337,7 +337,7 @@ particular -> A2-> A16
 fuzzy -> A3
 logic -> A3
 computational -> A3
-modeling -> A3-> A4
+modeling -> A3-> A4-> A11
 method -> A3-> A10-> A19
 particularly -> A3
 prominent -> A3
@@ -360,13 +360,13 @@ construction -> A3
 findings -> A3
 exponential -> A3-> A9
 growth -> A3-> A9-> A16
-use -> A3-> A4-> A6-> A7-> A9-> A13-> A14-> A18
+use -> A3-> A4-> A6-> A7-> A9-> A11-> A13-> A14-> A18
 according -> A3
 10530 -> A3
-documents -> A3-> A5-> A11
+documents -> A3-> A5
 ten -> A3
 technique -> A3-> A15
-order -> A3-> A4-> A6
+order -> A3-> A4-> A6-> A11
 preference -> A3
 similarity -> A3
 ideal -> A3
@@ -383,7 +383,7 @@ comprehensive -> A3
 analysis-based -> A3
 reviewing -> A3
 designed -> A3-> A10-> A14
-using -> A3-> A5-> A7-> A10-> A11-> A15-> A16-> A17-> A18
+using -> A3-> A5-> A7-> A10-> A15-> A16-> A17-> A18
 object-oriented -> A3
 via -> A3
 uml -> A3
@@ -396,121 +396,121 @@ case -> A3-> A9-> A15
 3 -> A3
 cases -> A3
 diagram -> A3
-significant -> A4
-threat -> A4
-peoples -> A4
-health -> A4-> A14
-all -> A4-> A13-> A14
-over -> A4-> A8-> A9-> A12
-world -> A4-> A9
-skin -> A4
-cancer -> A4
-cnn -> A4
-makes -> A4
-preprocessing -> A4
-augmentation -> A4
-ham10000 -> A4
-imbalance -> A4
-contains -> A4
-addressed -> A4
-resizing -> A4
-images -> A4-> A16
-120ã—120 -> A4
-pixels -> A4
-removing -> A4
-hair -> A4
-increasing -> A4-> A9
-diversity -> A4
-datasets -> A4
-beneficial -> A4
-processes -> A4
-achieve -> A4
-best -> A4-> A7-> A10-> A15-> A18
-possible -> A4
-lesions -> A4
-incorporates -> A4
-layers -> A4
-carefully -> A4
-tuned -> A4
+significant -> A4-> A11
+threat -> A4-> A11
+peoples -> A4-> A11
+health -> A4-> A11-> A14
+all -> A4-> A11-> A13-> A14
+over -> A4-> A8-> A9-> A11-> A12
+world -> A4-> A9-> A11
+skin -> A4-> A11
+cancer -> A4-> A11
+cnn -> A4-> A11
+makes -> A4-> A11
+preprocessing -> A4-> A11
+augmentation -> A4-> A11
+ham10000 -> A4-> A11
+imbalance -> A4-> A11
+contains -> A4-> A11
+addressed -> A4-> A11
+resizing -> A4-> A11
+images -> A4-> A11-> A16
+120ã—120 -> A4-> A11
+pixels -> A4-> A11
+removing -> A4-> A11
+hair -> A4-> A11
+increasing -> A4-> A9-> A11
+diversity -> A4-> A11
+datasets -> A4-> A11
+beneficial -> A4-> A11
+processes -> A4-> A11
+achieve -> A4-> A11
+best -> A4-> A7-> A10-> A11-> A15-> A18
+possible -> A4-> A11
+lesions -> A4-> A11
+incorporates -> A4-> A11
+layers -> A4-> A11
+carefully -> A4-> A11
+tuned -> A4-> A11
 divided -> A4-> A5-> A8-> A11
 into -> A4-> A5-> A8-> A9-> A10-> A11-> A13
 sets -> A4-> A5-> A11-> A15
-validation -> A4
-metrics -> A4-> A6
-which -> A4-> A9-> A10-> A16-> A17-> A19
-include -> A4
-precision -> A4-> A19
-recall -> A4
-f1 -> A4
-score -> A4
-point -> A4-> A17
-highly -> A4-> A19
+validation -> A4-> A11
+metrics -> A4-> A6-> A11
+which -> A4-> A9-> A10-> A11-> A16-> A17-> A19
+include -> A4-> A11
+precision -> A4-> A11-> A19
+recall -> A4-> A11
+f1 -> A4-> A11
+score -> A4-> A11
+point -> A4-> A11-> A17
+highly -> A4-> A11-> A19
 performance -> A4-> A5-> A11-> A12-> A15-> A16
-0932 -> A4
-demonstrates -> A4
-superior -> A4
-approaches -> A4-> A14
-lesion -> A4
-signifies -> A4
-potential -> A4
-effective -> A4
-instrument -> A4-> A19
-early -> A4
-authorship -> A5-> A11
-attribution -> A5-> A11
-arabic -> A5-> A11
-poetry -> A5-> A11
-will -> A5-> A11-> A14
-conducted -> A5-> A11
-determine -> A5-> A11
-specified -> A5-> A11
-after -> A5-> A11-> A13
-recognized -> A5-> A11-> A16
-authorships -> A5-> A11
-allocated -> A5-> A11
-work -> A5-> A8-> A11
-measures -> A5-> A11
-impact -> A5-> A11
-naã¯ve -> A5-> A11
-bayes -> A5-> A11
-support -> A5-> A11
-vector -> A5-> A11
-machine -> A5-> A11
-linear -> A5-> A11
-discriminant -> A5-> A11
-mining -> A5-> A11-> A15
-features -> A5-> A11-> A15
-lexical -> A5-> A11
-character -> A5-> A11
-structural -> A5-> A11
-syntactic -> A5-> A11
-semantic -> A5-> A6-> A11
-word -> A5-> A9-> A11
-utilized -> A5-> A11-> A14
-input -> A5-> A11-> A15
-algorithms -> A5-> A7-> A11-> A15-> A16-> A17-> A18
-apaam -> A5-> A11
-two -> A5-> A8-> A11-> A12-> A15-> A16
-known -> A5-> A11
-poetic -> A5-> A11
-texts -> A5-> A11
-anonymous -> A5-> A11
-test -> A5-> A11
-set -> A5-> A9-> A10-> A11
-114 -> A5-> A11
-random -> A5-> A11
-poets -> A5-> A11
-from -> A5-> A7-> A9-> A11-> A15-> A16-> A18-> A19
-entirely -> A5-> A11
-eras -> A5-> A11
-highest -> A5-> A11
-value -> A5-> A11
-99 -> A5-> A11-> A19
-12 -> A5-> A11
-rate -> A5-> A11
-attribute -> A5-> A11-> A14
-98246 -> A5-> A11
-92836 -> A5-> A11
+0932 -> A4-> A11
+demonstrates -> A4-> A11
+superior -> A4-> A11
+approaches -> A4-> A11-> A14
+lesion -> A4-> A11
+signifies -> A4-> A11
+potential -> A4-> A11
+effective -> A4-> A11
+instrument -> A4-> A11-> A19
+early -> A4-> A11
+authorship -> A5
+attribution -> A5
+arabic -> A5
+poetry -> A5
+will -> A5-> A14
+conducted -> A5
+determine -> A5
+specified -> A5
+after -> A5-> A13
+recognized -> A5-> A16
+authorships -> A5
+allocated -> A5
+work -> A5-> A8
+measures -> A5
+impact -> A5
+naã¯ve -> A5
+bayes -> A5
+support -> A5
+vector -> A5
+machine -> A5
+linear -> A5
+discriminant -> A5
+mining -> A5-> A15
+features -> A5-> A15
+lexical -> A5
+character -> A5
+structural -> A5
+syntactic -> A5
+semantic -> A5-> A6
+word -> A5-> A9
+utilized -> A5-> A14
+input -> A5-> A15
+algorithms -> A5-> A7-> A15-> A16-> A17-> A18
+apaam -> A5
+two -> A5-> A8-> A12-> A15-> A16
+known -> A5
+poetic -> A5
+texts -> A5
+anonymous -> A5
+test -> A5
+set -> A5-> A9-> A10
+114 -> A5
+random -> A5
+poets -> A5
+from -> A5-> A7-> A9-> A15-> A16-> A18-> A19
+entirely -> A5
+eras -> A5
+highest -> A5
+value -> A5
+99 -> A5-> A19
+12 -> A5
+rate -> A5
+attribute -> A5-> A14
+98246 -> A5
+92836 -> A5
 ontology -> A6
 development -> A6-> A8-> A13
 driven -> A6-> A8

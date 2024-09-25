@@ -34,6 +34,6 @@ Digital image, watermarking image, copyright protection, frequency-domain waterm
 -next-
 Path planning, genetic algorithms, robotics 
 -next-
-Remote sensing, algorithm accuracy assessment, artificial intelligence 
+Convolutional Neural Networks, Deep Learning, Data Augmentation, Image Preprocessing, Skin Lesion Classification 
 -next-
 Endoscopy, Anatomical Landmarks, Transformer, Abnormality Detection, Computer Aided Diagnosis 
