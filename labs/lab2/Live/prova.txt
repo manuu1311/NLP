@@ -1,0 +1,1 @@
+To compare the interpretation and response context of two commonly used artificial intelligence (AI)-based large language model (LLM) platforms to ophthalmology-related multiple choice questions (MCQs) in the Swedish proficiency test for medicine ("kunskapsprov för läkare") exams.

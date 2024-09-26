@@ -15,7 +15,7 @@ Micro-supercapacitorsLaser-induced grapheneFluorinated polyimidePhosphorus dopin
 -next-
 The Performance of Artificial Intelligence-based Large Language Models on Ophthalmology-related Questions in Swedish Proficiency Test for Medicine: ChatGPT-4 omni vs Gemini 1.5 Pro
 Mehmet Cem Sabaner, Arzu Seyhan Karatepe Hashas, Kemal Mert Mutibayraktaroglu, Zubeyir Yozgat, Oliver Niels Klefter, Yousif Subhi
-To compare the interpretation and response context of two commonly used artificial intelligence (AI)-based large language model (LLM) platforms to ophthalmology-related multiple choice questions (MCQs) in the Swedish proficiency test for medicine (“kunskapsprov för läkare”) exams.
+To compare the interpretation and response context of two commonly used artificial intelligence (AI)-based large language model (LLM) platforms to ophthalmology-related multiple choice questions (MCQs) in the Swedish proficiency test for medicine ("kunskapsprov för läkare") exams.
 Artificial intelligenceChatGPT-4 omniE-learningGemini 1.5 ProLarge language modelMedical educationOphthalmology
 -next-
 Evaluation of Probability Distribution Methods for Flood Frequency Analysis in the Jhelum Basin of North-Western Himalayas, India
