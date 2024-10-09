@@ -1,0 +1,49 @@
+LAB 3
+
+The aim of this lab is to test the similarity between two sentences using online lexical database WordNet. The students can 
+refer to the original paper of Mihalcea et al. (Corpus-based and Knowledge-based Measures of Text Semantic Similarity), 
+appeared in AAAI 2006. See, (https://www.aaai.org/Papers/AAAI/2006/AAAI06-123.pdf)
+
+1.	For early practice, study Section 5 of Chapter 2 of NLTK online book, and try to reproduce the coding examples and 
+try to use your own examples of wording to identify the synsets, hyponyms, hypernyms, and various semantic similarity 
+between two words of your choice. Suggest a script that retrieves the first hypernym and the list of all hyponyms of words 
+‘car’ and ‘bus’. 
+
+2.	Suggest another script that extracts the synsets of the word “car” and rank them in the order of their frequency of 
+occurrence (most common synset first, less common synset at the end). For this purpose, you may use the coding:
+ 
+
+# Get the most common synset
+car = wn.synsets('car', 'n')[0] 
+# Get the first lemma
+print car.lemmas()[0].count()
+ 
+
+3.	Now we want to use the WordNet semantic similarity to evaluate the similarity between the words. Suggest a 
+script that calculates the Wu and Palmer semantic similarity between words ‘car’ and ‘bus’ in terms of maximum S1, 
+minimum  S2 and average S3 over all synsets of these words (in other words, combination of synsets that yields the 
+maximum, minimum Wu and Palmer similarity as well as the average similarity over all combination of synsets in ‘car’ 
+and ‘bus’). Repeat this process by calculating the Wu and Palmer similarity between the first hypernym of ‘car’ and 
+first hypernym of ‘bus’, and the new values for S1, S2 and S3. Next, repeat this process for hyponyms words; that is 
+calculate the Wu and Palmer between every hyponym of ‘car’ and that of ‘bus’ and then take arithmetic average of all 
+hyponym-pairs as the new Hyponym-based similarity values, and then consider the new evaluations of S1, S2 and S3 when 
+all synsets are considered.
+4.	Repeat 3) when Jiang-Conrath similarity is employed where the corpus consists of Brown corpus, 
+see https://www.nltk.org/howto/wordnet.html for examples. 
+5.	Now consider two sentences T1 and T2, each constituted with a set of tokens. For this purpose, 
+study expression (1) of the aforementioned Mihalcea et al.’s paper above (see below).  You can check with a 
+potential implementation available in Mihalcea’s resources and elsewhere. Start with sentences: T1: “Students 
+feel unhappy today about the class today”. T2: ”Several students study hard at classes in recent days”,  and study 
+the influence of various preprocessing (stopword removal, stemming) on the result of the sentence-to-sentence similarity above.
+6.	Consider a new approach of calculating the semantic similarity by transforming all words of sentence in their 
+noun counterpart and then calculate the maximum similarity score as in Mihalcea’s formula.. The extraction of 
+the noun part of each token of the sentence can be performed using ‘morphy’ function in wordnet, see example 
+in https://www.nltk.org/howto/wordnet.html.
+7.	Now consider a new sentence-to-sentence similarity where the similarity score is calculated as the cosine 
+similarity of embedding vectors of the two sentences and where the embedding vector of each sentence 
+is the average of FastText embedding vector of each word constituting the sentence prior to any pre-processing stage. 
+Write a program that implements this similarity metric and compute the sentence-to-sentence similarity of T1 and T2.  
+Repeat this process when using word2vec embeddings and doc2vec embedding.   
+8.	Implement a program that calculates the sentence-to-sentence similarity as the result of the FuzzyWuzzy score of 
+comparison of string of both sentences, after initial preprocessing and lemmatization using wordnet lemmatizer. 
+Calculate the new similarity score between sentence T1 and T2.
