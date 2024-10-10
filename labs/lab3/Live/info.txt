@@ -1,11 +1,25 @@
 LAB 3    LIVE
 
-The aim of this lab is to test the similarity between sentences using online lexical database WordNet and other embedding based methods.
-Consider the MRPC dataset msr_paraphrase_corpus.txt. It contains a set of pairs of sentences such labelled by 1 or 0 depending on whether the two sentences in the pair are semantically similar or not (1 means highly similar and 0 highly non-similar). We want to test various constructions methods to test this matching process
-1.	Use the Mihalecea et al.’s (Corpus-based and Knowledge-based Measures of Text Semantic Similarity), appeared in AAAI 2006. See, (https://www.aaai.org/Papers/AAAI/2006/AAAI06-123.pdf) implementation of sentence-sentence semantic similarity (a script of this implementation is also available in lab resources in Moodle) to compute the similarity score of each pair of sentences. Then compute the Pearson correlation between the semantic similarity score and label score (0 or 1). Provide both the overall Pearson correlation score and the associated p-value.  The higher the correlation score, the better the matching between the sentence-to-sentence similarity model and the manual labelling.
+The aim of this lab is to test the similarity between sentences using online lexical database WordNet and other embedding 
+based methods.
+Consider the MRPC dataset msr_paraphrase_corpus.txt. It contains a set of pairs of sentences such labelled by 1 or 0 
+depending on whether the two sentences in the pair are semantically similar or not (1 means highly similar and 0 highly 
+non-similar). We want to test various constructions methods to test this matching process
+1.	Use the Mihalecea et al.’s (Corpus-based and Knowledge-based Measures of Text Semantic Similarity), appeared in AAAI 
+2006. See, (https://www.aaai.org/Papers/AAAI/2006/AAAI06-123.pdf) implementation of sentence-sentence semantic 
+similarity (a script of this implementation is also available in lab resources in Moodle) to compute the similarity 
+score of each pair of sentences. Then compute the Pearson correlation between the semantic similarity score and label 
+score (0 or 1). Provide both the overall Pearson correlation score and the associated p-value.  The higher the correlation 
+score, the better the matching between the sentence-to-sentence similarity model and the manual labelling.
 2.	Repeat 1) when using different wordnet similarity measures and compare their performance in a table. 
-3.	Next, we want to use the preceding to compute threshold value beyond which a sentence-to-sentence similarity is considered as a paraphrase. Suggest an approach and a script that allows you to do so by exploring the minimum value for both paraphrasing and non-paraphrasing.
-4.	Next, we want to comprehend whether the pairs that do not match with manual labelling contain some linguistic quantifiers. Suggest, a script that identifies the presence of quantifier such that negation, in the sentences and test the validity of statement that “incorrect matching is often due to presence of some specific linguistic quantifiers”. You may need to manually explore the pairs of sentences for which the matching between manual annotation and sentence-to-similarity score to identify those quantifiers presents in such sentences. 
+3.	Next, we want to use the preceding to compute threshold value beyond which a sentence-to-sentence similarity is 
+considered as a paraphrase. Suggest an approach and a script that allows you to do so by exploring the minimum value 
+for both paraphrasing and non-paraphrasing.
+4.	Next, we want to comprehend whether the pairs that do not match with manual labelling contain some linguistic 
+quantifiers. Suggest, a script that identifies the presence of quantifier such that negation, in the sentences and 
+test the validity of statement that “incorrect matching is often due to presence of some specific linguistic 
+quantifiers”. You may need to manually explore the pairs of sentences for which the matching between manual annotation 
+and sentence-to-similarity score to identify those quantifiers presents in such sentences. 
 5.	Repeat 1) when using the word2vec similarity model, FastText similarity and Glove similarity.
 6.	Repeat 1) when using FuzzyWuzzy similarity, which accounts for only string matching.
        Finally, generate a summary table for the results of most previous specifications of your choice.

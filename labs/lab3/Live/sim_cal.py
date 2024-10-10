@@ -6,10 +6,12 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('genesis')
+path='D:/misc/Projects/Python/NLP/misc'
+nltk.data.path.append(path)
+nltk.download('stopwords',download_dir=path)
+nltk.download('punkt',download_dir=path)
+nltk.download('wordnet',download_dir=path)
+nltk.download('genesis',download_dir=path)
 
 genesis_ic = wn.ic(genesis, False, 0.0)
 
